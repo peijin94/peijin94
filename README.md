@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Peijin
+
+🔭 I’m currently working on: low-frequency radio astronomy, solar radio physics, spaceweather.
+
+🔗 More about me at [pjzhang.cc](pjzhang.cc)
+
+🗃️ Most of my code repositories are about data processing and radio wave propagation simulations, not very well organized (but I am working on it😅), no restriction to use, and please make feedback on any glitch or inconvenience from my code, thanks!
 
 <!--
 **peijin94/peijin94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
